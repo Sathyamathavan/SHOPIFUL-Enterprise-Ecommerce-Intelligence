@@ -358,20 +358,99 @@ Geographical warehouse locations
 
 Interactive filters and slicers were implemented to make the dashboards dynamic.
 
-Users can filter and analyze information based on relevant dimensions such as:
+Key filtering dimensions include:
 
 Date
 State
 Category
 Product
+Brand
 Order Status
 Payment Method
 Return Status
 Warehouse
-Brand
 
-The filters allow users to drill into specific business areas and compare performance dynamically.
+Key Business Insights
 
-Deliveries
-Reviews
-Warehouse
+The SHOPIFUL platform enables analysis of:
+
+📈 Sales and revenue trends
+📦 Product and category performance
+👥 Customer purchasing behaviour
+🛒 Order performance
+💳 Payment preferences
+🔄 Return patterns
+🚚 Delivery operations
+🏭 Warehouse and inventory performance
+🌍 Geographical business performance
+
+🔄 Project Workflow
+Dataset
+   ↓
+Data Cleaning & Validation
+   ↓
+MySQL Database
+   ↓
+SQL Analysis
+   ↓
+Power BI Connection
+   ↓
+Power Query ETL
+   ↓
+Data Modelling
+   ↓
+DAX Measures
+   ↓
+Dashboard Development
+   ↓
+Business Insights
+
+📸 Dashboard Preview
+
+Dashboard screenshots are available in the Dashboard Screenshots folder.
+
+| Dashboard             | Preview                          |
+| --------------------- | -------------------------------- |
+| Executive Overview    | Sales & business overview        |
+| Customer Intelligence | Customer behaviour analysis      |
+| Product Performance   | Product and category analysis    |
+| Sales & Orders        | Sales and order analysis         |
+| Returns & Delivery    | Returns and delivery analysis    |
+| Payment & Revenue     | Payment and revenue analysis     |
+| Warehouse Operations  | Inventory and warehouse analysis |
+
+📁 Repository Structure
+SHOPIFUL-Enterprise-Ecommerce-Intelligence/
+│
+├── 📁 Dashboard Screenshots/
+├── 📁 Dataset/
+├── 📁 SQL/
+├── 📁 PowerBI/
+├── 📁 Documentation/
+└── 📄 README.md
+
+📚 Documentation
+
+Detailed project documentation, including complete technical explanations, SQL analysis, dashboard details, KPIs, insights, recommendations, and project implementation details is available in the Documentation folder.
+
+🚀 Future Enhancements
+Real-time sales monitoring
+Sales and demand forecasting
+Customer churn prediction
+Product demand prediction
+Automated inventory-reorder recommendations
+Advanced customer segmentation
+Predictive return analysis
+AI-based business recommendations
+👩‍💻 Author
+Sathya Sri M
+
+SHOPIFUL – Enterprise E-Commerce Intelligence Platform
+
+Technologies: MySQL | SQL | Power BI | DAX | Power Query | Excel
+
+Focus: Data Analytics | Business Intelligence | Sales Analytics | Customer Analytics | Product Analytics | Operations Analytics
+
+📜 License
+
+This project is created for educational, portfolio, and data analytics demonstration purposes.
