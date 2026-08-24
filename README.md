@@ -10,6 +10,9 @@ The project uses **MySQL and SQL** for database creation, data storage, validati
 
 The solution integrates customers, products, categories, orders, payments, returns, deliveries, reviews, and warehouse operations to identify sales trends, customer behaviour, product performance, operational issues, payment patterns, and inventory-related insights.
 
+<img width="884" height="503" alt="warehouse performance" src="https://github.com/user-attachments/assets/160f87da-c519-4096-b0de-348f4af2b15b" />
+
+
 ## 🎯 Business Areas Covered
 - Sales and revenue performance
 - Customer behaviour and order frequency
