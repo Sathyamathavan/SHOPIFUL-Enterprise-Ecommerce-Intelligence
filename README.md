@@ -9,10 +9,6 @@ SHOPIFUL Enterprise E-Commerce Intelligence Platform is a data analytics and bus
 The project uses **MySQL and SQL** for database creation, data storage, validation, and analysis, and **Microsoft Power BI** for interactive dashboards and business intelligence reporting.
 
 The solution integrates customers, products, categories, orders, payments, returns, deliveries, reviews, and warehouse operations to identify sales trends, customer behaviour, product performance, operational issues, payment patterns, and inventory-related insights.
-
-<img width="884" height="503" alt="warehouse performance" src="https://github.com/user-attachments/assets/160f87da-c519-4096-b0de-348f4af2b15b" />
-
-
 ## 🎯 Business Areas Covered
 - Sales and revenue performance
 - Customer behaviour and order frequency
@@ -99,15 +95,15 @@ SQL was used for:
 - Sales by State
 - Top 10 Products by Sales
 - Payment Method Analysis
+  <img width="880" height="500" alt="Executive overview" src="https://github.com/user-attachments/assets/b2d31f65-b678-4d5a-abf1-650597045c5b" />
+
 
 ### Dashboard 2 – Customer Intelligence
 - Customer Revenue by State
 - Orders by Status
 - Customer Order Frequency
 - Geographic Customer Distribution
-
-  ![Customer Intelligence Dashboard](Dashboard_Screenshots/Customer Intelligence.png)
-
+<img width="889" height="501" alt="Customer intelligence" src="https://github.com/user-attachments/assets/f8bfd0f9-d2cd-4c78-af09-4a0fd4f97e80" />
 
 ### Dashboard 3 – Product Performance
 - Sales by Category
@@ -115,7 +111,9 @@ SQL was used for:
 - Product Price vs Sales
 - Product Rating Distribution
 - Top Products / Units Sold
+  <img width="881" height="496" alt="product performance" src="https://github.com/user-attachments/assets/f8e0c2e3-adda-4082-93ca-0af6fde27605" />
 
+  
 ### Dashboard 4 – Sales & Orders
 - Total Orders by State
 - Total Orders by Order Status
@@ -123,33 +121,29 @@ SQL was used for:
 - Reviews by Rating
 - Sales Amount by Year
 
+<img width="877" height="496" alt="sales and order performance" src="https://github.com/user-attachments/assets/cc157525-1e5b-4301-b573-826669e17420" />
+
+
 ### Dashboard 5 – Returns & Delivery
 - Total Orders by Return Status
 - Total Returns by Reason
 - Delivery Partner by State
+<img width="882" height="500" alt="Return and delivery performance" src="https://github.com/user-attachments/assets/792734e9-e884-435e-b4d6-505e1a720096" />
 
 ### Dashboard 6 – Payment & Revenue
 - Payment Method Distribution
 - Payment Amount by Method
 - Payment Amount by Year
 - Payment Amount by Category
+  <img width="883" height="495" alt="payment and revenew " src="https://github.com/user-attachments/assets/f8ab2638-6b46-4e3f-98ee-8bbe0bbd0882" />
+
 
 ### Dashboard 7 – Warehouse & Inventory Intelligence
 - Warehouse Capacity Utilization
 - Stock Distribution by Warehouse
 - Stock Quantity by Warehouse ID
 - Warehouse State Map
-
-## 🖼️ Dashboard Screenshots
-
-### Customer Intelligence Dashboard
-![Customer Intelligence Dashboard](Dashboard_Screenshots/Customer Intelligence.png)
-
-### Product Performance Dashboard
-![Product Performance Dashboard](Dashboard_Screenshots/Executive overview.png)
-
-### Other Dashboard Pages
-Additional dashboard screenshots are included in the `Dashboard_Screenshots` folder.
+<img width="884" height="503" alt="warehouse performance" src="https://github.com/user-attachments/assets/4721df9e-5e79-4771-b14d-affd4e6c4c43" />
 
 ## 📈 Key KPIs
 
