@@ -103,6 +103,9 @@ SQL was used for:
 - Customer Order Frequency
 - Geographic Customer Distribution
 
+  ![Customer Intelligence Dashboard](Dashboard_Screenshots/Customer Intelligence.png)
+
+
 ### Dashboard 3 – Product Performance
 - Sales by Category
 - Product Sales Trend
@@ -137,10 +140,10 @@ SQL was used for:
 ## 🖼️ Dashboard Screenshots
 
 ### Customer Intelligence Dashboard
-![Customer Intelligence Dashboard](Dashboard_Screenshots/Customer_Intelligence.png)
+![Customer Intelligence Dashboard](Dashboard_Screenshots/Customer Intelligence.png)
 
 ### Product Performance Dashboard
-![Product Performance Dashboard](Dashboard_Screenshots/Product_Performance.png)
+![Product Performance Dashboard](Dashboard_Screenshots/Executive overview.png)
 
 ### Other Dashboard Pages
 Additional dashboard screenshots are included in the `Dashboard_Screenshots` folder.
