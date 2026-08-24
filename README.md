@@ -1,7 +1,7 @@
 SHOPIFUL – Enterprise E-Commerce Intelligence Platform
 Industry
 E-Commerce – Online Retail & Enterprise Business Analytics
-Project Overview
+PROJECT OVERVIEW
 The SHOPIFUL Enterprise E-Commerce Intelligence Platform is a data analytics and business intelligence project designed to analyze the sales, customer, product, order, payment, return, delivery, and warehouse performance of an e-commerce business.
 The project uses MySQL and SQL for database creation, data storage, validation, and analysis, and Microsoft Power BI for interactive dashboards and business intelligence reporting. The solution integrates customers, products, categories, orders, payments, returns, deliveries, reviews, and warehouse operations to identify sales trends, customer behaviour, product performance, operational issues, payment patterns, and inventory-related insights.
 Business Areas Covered
